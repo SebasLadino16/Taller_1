@@ -1,0 +1,22 @@
+[
+  {
+    "id_reserva": 1,
+    "id_sala": "Laboratorio-403",
+    "id_usuario": "Sebas16",
+    "fecha": "2026-03-07",
+    "hora_inicio": "14:00",
+    "hora_fin": "16:00",
+    "personas": 15,
+    "estado": "Confirmada"
+  },
+  {
+    "id_reserva": 2,
+    "id_sala": "Sala-Estudio-2",
+    "id_usuario": "Emmanuel06",
+    "fecha": "2026-03-08",
+    "hora_inicio": "08:00",
+    "hora_fin": "10:00",
+    "personas": 4,
+    "estado": "Pendiente"
+  }
+]
